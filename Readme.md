@@ -22,16 +22,8 @@ Create a `.eslintrc.json` file extending the config:
 
 ```
 {
-  "extends": "@config-eslint-ar3secchim"
+  "extends": "config-eslint-ar3secchim"
 }
 ```
-<br>
-
-and create a `prettier.config.js` file:
-
-```js
-module.exports = require('@config-eslint-ar3secchim')
-```
-<br>
 
 > You can also use a `.eslintrc.js` instead of JSON if you prefer.
