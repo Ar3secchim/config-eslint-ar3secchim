@@ -1,19 +1,12 @@
 {
-  "name": "config-eslint-ar3secchim",
-  "version": "1.0.3",
-  "description": "Config eslint junto com  prettier para formalizar projetos",
+  "name": "eslint-config-ar3secchim",
+  "version": "1.2.0",
+  "private": false,
+  "description": "Configuração bases Eslint e prettier para projetos",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
-    "test": "npm i -D config-eslint-ar3secchim"
-  },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Ar3secchim/config-eslint-ar3secchim.git"
-  },
-  "author": "Renara Secchim",
-  "bugs": {
-    "url": "https://github.com/Ar3secchim/config-eslint-ar3secchim/issues"
+    "url": "https://github.com/Ar3secchim/config-eslint-ar3secchimt"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
@@ -38,6 +31,5 @@
     "typescript": {
       "optional": true
     }
-  },
-  "homepage": "https://github.com/Ar3secchim/config-eslint-ar3secchim#readme"
+  }
 }

@@ -5,8 +5,6 @@
 # Stylelint
 
 - Standard config base;
-- React plugin;
-- React Hooks plugin;
 - Prettier;
 
 ## Install
