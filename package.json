@@ -1,6 +1,6 @@
 {
   "name": "config-eslint-ar3secchim",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Config eslint junto com  prettier para formalizar projetos",
   "main": "index.js",
   "license": "MIT",
