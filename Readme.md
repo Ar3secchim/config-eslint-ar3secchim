@@ -10,7 +10,7 @@
 ## Install
 
 ```
-npm i -D config-eslint-ar3secchim
+npm i -D eslint config-ar3secchim
 ```
 
 <br>
@@ -20,7 +20,7 @@ Create a `.eslintrc.json` file extending the config:
 
 ```
 {
-  "extends": "config-eslint-ar3secchim"
+  "extends": "config-ar3secchim"
 }
 ```
 
