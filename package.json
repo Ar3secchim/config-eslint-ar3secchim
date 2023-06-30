@@ -4,7 +4,7 @@
   "description": "Config eslint junto com  prettier para formalizar projetos",
   "main": "index.js",
   "scripts": {
-    "test": "npm config-eslint-ar3secchim"
+    "test": "npm i -D config-eslint-ar3secchim"
   },
   "repository": {
     "type": "git",
