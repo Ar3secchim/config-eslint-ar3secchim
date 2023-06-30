@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "Config eslint junto com  prettier para formalizar projetos",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "test": "npm i -D config-eslint-ar3secchim"
   },
@@ -11,7 +12,6 @@
     "url": "git+https://github.com/Ar3secchim/config-eslint-ar3secchim.git"
   },
   "author": "Renara Secchim",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ar3secchim/config-eslint-ar3secchim/issues"
   },
@@ -33,6 +33,11 @@
   "peerDependencies": {
     "eslint": "^7.23.0 || ^8.0.0",
     "typescript": ">=3.3.1"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
   },
   "homepage": "https://github.com/Ar3secchim/config-eslint-ar3secchim#readme"
 }
